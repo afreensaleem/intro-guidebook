@@ -1,6 +1,6 @@
 # Intro Guidebook 
 
-Welcome to the Intro to Programming GitHub Guidebook! This repository contains teaching materials and resources to support mentors in delivering our Intro to Programming curriculum..
+Welcome to the Intro to Programming GitHub Guidebook! This repository contains teaching materials and resources to support mentors in delivering our Intro to Programming curriculum....
 
 ## Repository Structure
 
